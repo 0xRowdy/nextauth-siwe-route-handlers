@@ -1,3 +1,5 @@
+This is a Repo to get Next Auth, SIWE, and Rainbow Kit working with the new Next JS Route Handlers
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
